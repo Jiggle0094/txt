@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# txt files for boilerplate
 Boiler plate for p5.play
